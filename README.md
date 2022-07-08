@@ -13,7 +13,7 @@ año de la carrera de Ingeneria en Telecomunicaciones. </h3>
 <p align="left">
 <a href="https://linkedin.com/in/mario-manuel-maxi-churata-2b8674242/" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "alt="mario-manuel-maxi-churata-2b8674242/" height="30" width="40" /></a>
 <a href="https://fb.com/mario.maxi453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/facebook.svg" alt="mario.maxi453" height="30" width="40" /></a>
-<a href="https://instagram .com/manuelmaxi07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/instagram.svg" alt="manuelmaxi07/" height="30" width="40" /></a>
+<a href="https://instagram .com/manuelmaxi07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/instagram.svg" alt="manuelmaxi07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>
