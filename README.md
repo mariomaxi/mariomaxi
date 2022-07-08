@@ -10,7 +10,7 @@
   
   
 
-- 🌱Actualmente se usan librerias Pandas, Numpy,Graficar en MatplotLib.  
+- 🌱Actualmente se usar librerias Pandas, Numpy,Graficar en MatplotLib.  
   
 
 - ❓ Ask me about anything related to Python y sus librerias.  
