@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Mario Maxi</h1>
 <h3 align="center"> Estudio en la Universidad Nacional de San Agustín de Arequipa, tengo 19 años y estoy cursando el segundo 
-año de la carrera de ingeneria en Telecomunicaciones. </h3>
+año de la carrera de Ingeneria en Telecomunicaciones. </h3>
 
 
 - 🔭 Domino lenguaje de programacion en **Python**
 
-- 🌱 Actualmente estoy aprendiendo **Analisis de Datos en pandas,Graficar en MatplotLib,**
+- 🌱 Actualmente se usar **librerias Pandas, Numpy,Graficar en MatplotLib**
 
 - 📫 Mi correo es **mmaxi@unsa.edu.pe**
 
