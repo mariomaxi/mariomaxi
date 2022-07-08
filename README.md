@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Mario Maxi</h1>
-<h3 align="center">Soy de Perú y tengo 18 años y estudio en la Universidad Nacional de San Agustín de Arequipa</h3>
+<h3 align="center"> Estudio en la Universidad Nacional de San Agustín de Arequipa, tengo 19 años y estoy cursando el segundo 
+año de la carrera de ingeneria en Telecomunicaciones. </h3>
+
 
 - 🔭 Domino lenguaje de programacion en **Python**
 
